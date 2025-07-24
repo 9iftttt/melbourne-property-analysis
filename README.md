@@ -4,8 +4,17 @@
 
 ---
 
-## 👋 Introduction
+## 📊 Project Overview
 
+This project delivers a comprehensive, data-driven analysis of Melbourne’s real estate market, designed to inform property investors and stakeholders. The work was conducted as part of the INF20016 Big Data Management unit (Year 3, Semester 1) at Swinburne University.
+
+**Key outcomes:**
+- Cleaned and prepared property data using Tableau Prep Builder
+- Built interactive Tableau dashboards to visualize market trends and opportunities
+- Generated actionable insights for property investment decisions
+- Produced a professional report covering methodology, data quality, and recommendations
+
+---
 ### Problem Statement
 
 The Melbourne property market is at a crossroads, marked by conflicting forecasts and uncertainty about future trends. Investors, particularly those who have accumulated funds during and after the pandemic, face a dynamic real estate landscape filled with volatility, speculation about market corrections, and uncertainty driven by economic and policy changes. These investors are seeking rigorous, data-driven analysis to confidently allocate their resources, manage long-term risks, and maximise their returns in an environment with no clear consensus on market direction.
@@ -66,17 +75,6 @@ To meet stakeholder needs and address the complex challenges of the Melbourne pr
 
 ---
 
-## 📊 Project Overview
-
-This project delivers a comprehensive, data-driven analysis of Melbourne’s real estate market, designed to inform property investors and stakeholders. The work was conducted as part of the INF20016 Big Data Management unit (Year 3, Semester 1) at Swinburne University.
-
-**Key outcomes:**
-- Cleaned and prepared property data using Tableau Prep Builder
-- Built interactive Tableau dashboards to visualize market trends and opportunities
-- Generated actionable insights for property investment decisions
-- Produced a professional report covering methodology, data quality, and recommendations
-
----
 
 ## 🚀 Repo Structure & Files
 
