@@ -104,21 +104,21 @@ This project delivers a comprehensive, data-driven analysis of Melbourne’s rea
 ![Infographic – Affordable Suburbs](assets/images/infographic.png)  
 *2023’s top affordable suburbs for renters and investors.*
 
-** Insight 1- Victoria Market Overview**  
-*Melbourne property price trends by region and transaction volumes (2021–2024).*
-![Regional Price Trends](assets/images/insight1_market_overview.png)
+**Insight 1: Melbourne Market Overview**  
+*Median property prices have shown relative stability from 2021–2024, with strong transaction volumes in Southern, Northern, and Western Metropolitan regions, indicating sustained demand and potential resilience to market fluctuations.*
+![Market Overview](assets/images/insight1_market_overview.png)
 
-** Insight 2- Market Bubble Analysis**  
-*Investment patterns by property type, price, and distance from the CBD.*
-![Bubble Analysis](assets/images/insight2_bubble_analysis.png)
+**Insight 2: Investment Patterns by Distance from CBD**  
+*Investment trends reveal that houses dominate within 10 km of the CBD and attract the highest prices, while units and townhouses are more common (and affordable) in mid-range suburbs, enabling different strategies for growth and yield.*
+![Investment Patterns](assets/images/insight2_bubble_analysis.png)
 
-** Insight 3- Suburb Rental Price Comparison**  
-*2023’s most affordable suburbs by median rental price and region.*
+**Insight 3: Affordable Suburbs for Renters & Investors**  
+*The most affordable rental suburbs in 2023—such as Laverton, Melton West, and Kings Park—are concentrated in Western and Northern Melbourne, providing value opportunities for cost-conscious renters and high-yield potential for investors.*
 ![Affordable Suburbs](assets/images/insight3_rental_comparison.png)
 
-** Insight 4- Real Estate Agency Performance in Hawthorn**  
-*Agency specialization and property type sales, 2023–2024.*
-![Agency Performance](assets/images/insight4_agency_performance.png)
+**Insight 4: Agency Performance and Specialization in Hawthorn**  
+*In Hawthorn, agency specialization is clear: Jellis Craig leads in house sales, while Marshall White and Kay & Burton excel in townhouse transactions. This specialization highlights the importance of aligning with agencies that have proven expertise in the property type of interest—maximizing sales and investment outcomes in a highly competitive suburb.*
+![Agency Performance in Hawthorn](assets/images/insight4_agency_performance.png)
 
 
 ---
@@ -136,10 +136,9 @@ This project delivers a comprehensive, data-driven analysis of Melbourne’s rea
 
 ---
 
-## 🌐 [Optional] Live Demo
+## 🌐 Live Demo
 
-> *If you have published your dashboard to Tableau Public, add the link below:*
-> 
+
 > [View Live Tableau Dashboard](https://public.tableau.com/views/MelbournePropertyAnalysis/MelbourneRealEstateInvestmentInsightsDashboard?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
 
 ---
@@ -166,6 +165,23 @@ Melbourne’s property market offers a variety of investment strategies, balanci
 - Documented all cleaning steps in the report’s appendix for transparency
 
 ---
+
+## 🧹 Data Cleaning Workflow
+
+Ensuring the accuracy and reliability of property market insights requires robust data cleaning and preparation.  
+The following visual summarizes my data wrangling process using Tableau Prep:
+
+![Data Cleaning Workflow](assets/images/CleaningDataFlow.png)
+
+**Key Steps in the Cleaning Process:**
+- Duplicate checking and removal across all tables
+- Handling NULL values with imputation (e.g., using median values)
+- Consistency checks (e.g., region, suburb names, property types)
+- Data validation (e.g., correcting misspellings, verifying postcodes)
+- Field standardization and final table joins for analysis
+
+See the [full report](report/INF20016Case_Study_Analysis_Report.pdf) for detailed methodology.
+
 
 ## 👩‍💻 About the Analyst
 
